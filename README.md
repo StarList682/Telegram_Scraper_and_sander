@@ -1,3 +1,13 @@
+## Premium Code
+
+- Works without crashing
+- Scrapes more than 100K users
+- Works faster
+
+**Buy here: [Telegram](https://t.me/StarList_saki0)**
+
+--------------------------------------------------------
+
 ## • API Setup
 * Go to http://my.telegram.org  and log in.
 * Click on API development tools and fill the required fields.
